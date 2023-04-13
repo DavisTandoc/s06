@@ -1,4 +1,4 @@
-const number = parseInt(prompt('Enter a positive number: '));
+const number = parseInt(prompt('Please enter a positive integer: '));
 let n1 = 0, n2 = 1, nextTerm;
 console.log('Fibonacci Series:');
 console.log(n1); 
