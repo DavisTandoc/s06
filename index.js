@@ -12,7 +12,7 @@ while (nextTerm <= number) {
  if(nextTerm == number){
     alert(`${number} is a Fibonacci number.`)
  } else {
-    const number = parseInt(prompt('Enter a positive number: '));
+    const number = parseInt(prompt('Please enter a positive integer: '));
  }
 }  
 
